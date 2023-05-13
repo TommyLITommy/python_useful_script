@@ -1,1 +1,1 @@
-# My Personel Python Script 
+# My Personal Python Script 
